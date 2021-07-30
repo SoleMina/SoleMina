@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m @Kpradog
+
 👀 I’m interested in full-stack developer.
+
 🌱 I’m currently learning Reactjs.
+
 💞️ I’m looking to collaborate on projects.
+
 📫 How to reach me: karina.pradogutierrez@gmail.com
