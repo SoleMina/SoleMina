@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m @Kpradog
-
 👀 I’m interested in full-stack developer.
 
 🌱 I’m currently learning Reactjs.
