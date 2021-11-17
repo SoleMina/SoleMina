@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👀 I’m interested in full-stack developer.
 
-🌱 I’m currently learning Reactjs.
+🌱 I’m currently learning Reactjs and Nodejs.
 
 💞️ I’m looking to collaborate on projects.
 
