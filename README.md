@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+😄 I'm frontend developer
+
 👀 I’m interested in full-stack developer.
 
 🌱 I’m currently learning Angular and Nodejs.
