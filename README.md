@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👀 I’m interested in full-stack developer.
 
-🌱 I’m currently learning Angular and Nodejs.
+🌱 I’m currently learning Vuejs.
 
 💞️ I’m looking to collaborate on projects.
 
